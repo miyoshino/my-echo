@@ -1,6 +1,6 @@
 NAME := my-echo
-REPOSITORY := ysakashita/$(NAME)
-TAG := 20240710
+REPOSITORY := miyoshino/$(NAME)
+TAG := 20251114
 GOOS := linux
 GOARCH := amd64
 
